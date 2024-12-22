@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## Introduction
-Welcome to **Prime**, your trusted Discord bot. This Privacy Policy outlines the types of data we collect and how we use and protect it when you use the **Prime Bot**. By using our bot, you agree to the terms described in this policy.
+Welcome to **Activities Boat**, your trusted Discord bot. This Privacy Policy outlines the types of data we collect and how we use and protect it when you use the **Activities Boat**. By using our bot, you agree to the terms described in this policy.
 
 ## Data Collection
 When you use the `/activity` command, the bot may collect the following data:
